@@ -1,6 +1,9 @@
 # phaseome
 
+This MATLAB code package performs the computations for Figures x,y,z from
 
-The code for colorcet.m is available at https://colorcet.com/.  
+Yoshikawa, T., Pauls S. D., Foley, N., Taub, A., LeSauter, J., Honma, K-I., Honma, S., Silver, R., Phase Gradients and Directionality of the Suprachiasmatic Network, *eNeuro*.
+
+In plotting the figures, the code calls _colorcet.m_, which is available at https://colorcet.com/.  
 Peter Kovesi. Good Colour Maps: How to Design Them.
 arXiv:1509.03700 [cs.GR] 2015
