@@ -1,6 +1,7 @@
 function A=calc_global(filename,hour,startindex)
 %CALC_GLOBAL computes the phases of the signal for each pixel from the HOUR
-%period compnent of the Fourier decomposition.  
+%period compnent of the Fourier decomposition, converts the units to hours,
+%and presents them as an image.
 %
 %INPUTS:
 %
