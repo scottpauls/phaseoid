@@ -1,6 +1,6 @@
 # phaseome
 
-This MATLAB code package performs the computations for Figures x,y,z from
+This MATLAB code package performs the phase computations and phaseome detection from
 
 Yoshikawa, T., Pauls S. D., Foley, N., Taub, A., LeSauter, J., Honma, K-I., Honma, S., Silver, R., Phase Gradients and Directionality of the Suprachiasmatic Network, *eNeuro*.
 
